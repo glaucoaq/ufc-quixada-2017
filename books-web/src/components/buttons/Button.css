@@ -1,0 +1,36 @@
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 4px;
+  font-size: 12pt;
+  line-height: 1.8;
+  border: none;
+  }
+
+.button-info {
+  color: #fff;
+  background-color: #68f;
+}
+
+.button-info:focus,
+.button-info:hover {
+  background-color: #46d;
+}
+
+.button-danger {
+  color: #fff;
+  background-color: #f66;
+}
+.button-danger:hover,
+.button-danger:focus {
+  background-color: #c44;
+}
+
+.button-success {
+  color: #fff;
+  background-color: #4a8;
+}
+.button-success:hover,
+.button-success:focus {
+  background-color: #286;
+}

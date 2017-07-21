@@ -1,0 +1,25 @@
+ul.list {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.list li {
+  border: 1px solid #88a;
+  margin: 2px;
+  padding: 8px;
+}
+
+.list-item-selected {
+  color: #48f;
+  background-color: #cdf;
+}
+
+span.list-message {
+  display: block;
+  padding: 8px;
+  text-align: center;
+  font-style: italic;
+  font-size: 8pt;
+}

@@ -1,0 +1,22 @@
+.form-actions {
+  text-align: right;
+  display: block;
+}
+
+.author ul li div {
+  text-align: left;
+}
+
+.author ul li > div > div {
+  display: inline-block;
+}
+
+.author ul li > div span {
+  display: block;
+}
+
+.author ul li div.author-actions {
+  text-align: right;
+  display: block;
+  float: right;
+}
